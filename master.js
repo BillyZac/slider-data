@@ -32,3 +32,10 @@ p.enter().append("p")
 
 // Exit -- why is this needed?
 p.exit().remove()
+
+// NEXT STEPS
+// Change an existing document:
+//   in response to user interaction,
+//   animation over time,
+//   based on data pulled from 3rd party API
+//   based on data in Local Storage
